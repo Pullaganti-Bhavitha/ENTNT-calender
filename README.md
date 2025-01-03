@@ -162,7 +162,7 @@ o A live feed displaying all communication activities performed, sortable by dat
 
 Installation and Setup
 Clone the repository.
-git clone 
+git clone https://github.com/Pullaganti-Bhavitha/ENTNT-calender-Application-for-communication-Trackng
 Open the project in VS Code.
 Run the following commands:
 npm install
